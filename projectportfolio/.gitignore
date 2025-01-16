@@ -1,0 +1,27 @@
+# System files
+.DS_Store
+Thumbs.db
+ntuser.*
+*.ini
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Unwanted directories
+../../AppData/
+../../Documents/
+../../Downloads/
+../../OneDrive/
+../../Videos/
+../../Pictures/
+../../Music/
+../../Favorites/
+../../Contacts/
+../../Desktop/
