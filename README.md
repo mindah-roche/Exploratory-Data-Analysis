@@ -2,7 +2,8 @@
 
 **Project Overview**
 
-This project analyzes Nairobi's housing data retrieved from Kaggle. The analysis includes univariate, bivariate, and multivariate techniques to understand how different features influence house prices. Data was retrieved from Kaggle: Kenya Housing
+This project analyzes Nairobi's housing data retrieved from Kaggle. The analysis includes univariate, bivariate, and multivariate techniques to understand how different features influence house prices. 
+Data was retrieved from Kaggle: Kenya Housing
 Analyzing Housing Values across popular neighborhoods in Kenya; https://www.kaggle.com/datasets/iamasteriix/rental-apartments-in-kenya
 
 **Dataset**
