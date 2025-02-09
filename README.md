@@ -1,10 +1,10 @@
-Nairobi Housing Data Analysis
+**Nairobi Housing Data Analysis
 
-Project Overview
+Project Overview**
 
 This project analyzes Nairobi's housing data retrieved from Kaggle. The analysis includes univariate, bivariate, and multivariate techniques to understand how different features influence house prices.
 
-Dataset
+**Dataset**
 
 The dataset contains information on rental properties in Nairobi, including:
 
@@ -18,7 +18,7 @@ Agency
 
 Number of Bedrooms & Bathrooms
 
-Objectives
+**Objectives**
 
 Clean and preprocess the dataset (handle missing values, clean columns, and remove inconsistencies).
 
@@ -30,7 +30,7 @@ Explore relationships between property features and price.
 
 Build a simple linear regression model to analyze the correlation between property size and price.
 
-Technologies Used
+**Technologies Used**
 
 Python (pandas, numpy, seaborn, matplotlib, plotly, scikit-learn)
 
@@ -46,15 +46,15 @@ Cleaned the Neighborhood column by extracting relevant parts.
 
 Dropped unnecessary columns (e.g., "link").
 
-Exploratory Data Analysis (EDA)
+**Exploratory Data Analysis (EDA)
 
-Univariate Analysis
+Univariate Analysis**
 
 Examined distributions of house prices and property sizes.
 
 Used histograms, boxplots, and descriptive statistics.
 
-Bivariate Analysis
+**Bivariate Analysis**
 
 Analyzed relationships between house prices and square meters using scatter plots and regression lines.
 
@@ -62,13 +62,13 @@ Identified the most and least expensive neighborhoods.
 
 Compared prices across different agencies.
 
-Multivariate Analysis
+**Multivariate Analysis**
 
 Used correlation matrices to explore relationships between bedrooms, bathrooms, and price.
 
 Built a simple linear regression model to quantify price changes per square meter.
 
-Key Findings
+**Key Findings**
 
 The dataset contains extreme outliers in property sizes.
 
@@ -78,9 +78,9 @@ Some neighborhoods have significantly higher average prices than others.
 
 Agencies vary in their pricing strategies for similar properties.
 
-How to Run the Project
+**How to Run the Project
 
-Clone the repository:
+Clone the repository:**
 
 git clone https://github.com/your-repo-link.git
 
@@ -92,7 +92,7 @@ Run the analysis script:
 
 python analysis_script.py
 
-Future Improvements
+**Future Improvements**
 
 Incorporate additional features such as property amenities.
 
@@ -100,6 +100,6 @@ Improve price predictions using advanced machine learning models.
 
 Expand analysis to include rental trends over time.
 
-Author
+**Author
 
-Mindah Roche
+Mindah Roche**
