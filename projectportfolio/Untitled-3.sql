@@ -1,1 +1,0 @@
-select * from ecommerce_dataset;
